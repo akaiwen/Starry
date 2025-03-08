@@ -32,13 +32,7 @@ ll qpow(ll a,ll b,ll mod){
 }
 
 
-void solve(){
-    
 
-
-
-
-}
 
 signed main(){
     freopen("title.in","r",stdin);
